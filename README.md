@@ -537,8 +537,12 @@ MIT &copy; 2026 [Paperclip Labs, Inc](https://paperclip.ing)
 
 <br/>
 
+Strata
 ---
 
+[![strata](https://strata.umuttopalak-de4.workers.dev/paperclipai/paperclip.svg)](https://strata.umuttopalak-de4.workers.dev/#paperclipai/paperclip)
+
+---
 <p align="center">
   <sub>Open source under MIT. Built for people who want to get work done, not babysit agents.</sub>
 </p>
